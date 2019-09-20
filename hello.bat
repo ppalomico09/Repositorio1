@@ -7,4 +7,6 @@ CHOICE /c SN /m "Si o No"
 CLS
 ECHO ventana vacia
 ECHO %TIME%
+ECHO %DATE%
 pause
+
